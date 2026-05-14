@@ -40,5 +40,4 @@ The objective is to identify high-value customer segments and generate insights 
 ---
 
 ## 📊 Dashboard Preview
-(Add image below)
 ![Customer Analysis Dashboard](Customer Analysis.png)
